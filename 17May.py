@@ -3,7 +3,7 @@
 
 #Leetcode Question Link: https://leetcode.com/problems/sum-of-square-numbers/?envType=daily-question&envId=2024-06-17
 
-# 633. Sum of Square Numbers
+# 633. Sum of Square Numbers (Medium)
 # Given a non-negative integer c, decide whether there're two integers a and b such that a2 + b2 = c.
 class Solution:
   def judgeSquareSum(self, c: int) -> bool:
