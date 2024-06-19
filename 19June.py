@@ -1,6 +1,8 @@
 # Time complexity: O(nlog(max(bloomDay)))
 # Space complexity: O(1)
 
+#LeetCode Question Link: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/?envType=daily-question&envId=2024-06-19
+
 # 1482. Minimum Number of Days to Make m Bouquets (Medium)
 
 #You are given an integer array bloomDay, an integer m and an integer k.
